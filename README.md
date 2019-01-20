@@ -13,7 +13,7 @@ With the above scenario, can the agent cover the distance
 in the shortest time as well as maximize the total reward?
 
 
-
+## Methodology
 This project solves the classical grid world problem with different scenarios.
 Note: All the experiments haven been performed on a 4x4 grid
 
